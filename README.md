@@ -1,0 +1,15 @@
+<h1>Mariner-9 (Коммивояжеры)</h1>
+
+<h3>Состав команды</h3>
+<ul>
+<li>Болотов Глеб - тимлид + KSP + программист;</li>
+<li>Харитонов Максим - программист и дизайнер;</li>
+<li>Монгуш Ай-белек - физик;</li>
+<li>Владимиров Владислав - математик;</li>
+</ul>
+
+<h3>Модель ракеты-носителя Atlas-D</h3>
+![image.png](images/image.png)
+![Main.png](images/Main.png)
+![Main2.png](images/Main2.png)
+![Main3.png](images/Main3.png)
