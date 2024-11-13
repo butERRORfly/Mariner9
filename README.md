@@ -9,7 +9,11 @@
 </ul>
 
 <h3>Модель ракеты-носителя Atlas-D</h3>
-![image.png](images/image.png)
-![Main.png](images/Main.png)
-![Main2.png](images/Main2.png)
-![Main3.png](images/Main3.png)
+
+![image.png](https://github.com/butERRORfly/Mariner9/blob/master/images/image.png)
+
+![Main.png](https://github.com/butERRORfly/Mariner9/blob/master/images/Main.png)
+
+![Main2.png](https://github.com/butERRORfly/Mariner9/blob/master/images/Main2.png)
+
+![Main3.png](https://github.com/butERRORfly/Mariner9/blob/master/images/Main3.png)
